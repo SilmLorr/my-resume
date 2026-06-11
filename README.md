@@ -60,7 +60,7 @@ build/cv.pdf
 
 ## Customize Your CV
 
-Edit `/cv.tex` and replace the placeholder content with your own:
+Edit `cv.tex` and replace the placeholder content with your own:
 
 - Contact information
 - Professional summary
